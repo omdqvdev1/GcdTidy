@@ -1,11 +1,9 @@
 **Getting and Cleaning Data course project**
 
-Script **run_analysis.R** can be run as long as the Samsung data is in your working directory.
+Script [**run_analysis.R**](https://github.com/omdqvdev1/GcdTidy/blob/master/run_analysis.R) can be run as long as the experimental [data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is in your working directory.
 
-A full description hwo the has been obtaind is available at the site where the data was obtained:
+A full description of the experiment which produced the data is available here:
 [Human Activity Recognition Using Smartphones Data Set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-
-The very data used in the project can is here: [Download Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 The following steps has been implemented in the script, however more comments you can find in the very script.
 
@@ -28,3 +26,4 @@ The following steps has been implemented in the script, however more comments yo
 9. Additionally, generate a specific dictionary, containing  group name (test, train) and subject, and output to file subject_groups.txt 
 
 Addittionally, file *CodeBook.md* describes the variables, the data and any transformations performed to clean up the data
+
